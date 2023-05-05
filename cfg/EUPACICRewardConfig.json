@@ -1,0 +1,9 @@
+{
+  "regret_at_lower": 50,
+  "percentage_at_lower": 0.8,
+  "regret_at_upper": 1000,
+  "percentage_at_upper": 0.0,
+  "bound_window": 100,
+  "floating": 0.5,
+  "sample_window": 3
+}
