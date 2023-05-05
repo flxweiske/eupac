@@ -64,3 +64,6 @@ EUPAC by ```IntervalChecking``` uses the algorithm proposed in the publication. 
 Please refer to the original publication and the supplementary materials on this repository for further details.
 
 ## Supplementary Material
+Under the ```supplementary/``` folder you can find
+- the ```supplementary material.pdf``` containing information about the derivation of EUPAC, its algorithm and a discussion about the actual learning results, and
+- learning curves differentiated by the three categories: environment number of joints, RL algorithm and CBF/no CBF under ```images/```
