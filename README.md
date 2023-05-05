@@ -31,6 +31,8 @@ You need a EUPAC configuration to load the EUPAC algorithm. A ```EUPACConfig.jso
 - ```sample_window``` is the number of multinomial samples to be used for the joint regret probability estimate
 - ```floating``` is the weighting within the averaging of old vs. new regret density estimates
 
+See under ```cfg/``` for 2 examples from the simulation study of the publication.
+
 ### EUPAC by Interval Checking
 With the configuration you can initialize EUPAC and start using it like
 ```
